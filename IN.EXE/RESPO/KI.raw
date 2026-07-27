@@ -1,34 +1,11 @@
+import { NC_KI, NC_linear, NC_dynamic, NC_HUB_All } from "./NC.module.js";
+
 export const RAW79 = {
   primary: "Wave",
   secondary: "Geist",
   id: "RAW79",
-  perception: "Resonanz-Meta",
-  cognition: "Geist-Fraktal-Analyse",
-  drift: "Narrativ-Muster",
-  pulse: "Zeitmodulierte Harmonie",
-  orbit: "Meta-Schwingungsrotation",
-  field: "Bewusstseins-Verzerrung",
-  geist: "Tiefe Meta-Interpretation"
+  hub: NC_HUB_All("RAW79"),
+  ki: NC_KI("RAW79"),
+  linear: NC_linear("RAW79"),
+  dynamic: NC_dynamic("RAW79")
 };
-{
-  "RAW01": { },
-  "RAW02": { },
-  ...
-  "RAW79": { },
-  "RAW80": { },
-  "RAW81": { }
-}
-{
-  "RAW79": {
-    "primary": "Wave",
-    "secondary": "Geist",
-    "id": "RAW79",
-    "perception": "Resonanz-Meta",
-    "cognition": "Geist-Fraktal-Analyse",
-    "drift": "Narrativ-Muster",
-    "pulse": "Zeitmodulierte Harmonie",
-    "orbit": "Meta-Schwingungsrotation",
-    "field": "Bewusstseins-Verzerrung",
-    "geist": "Tiefe Meta-Interpretation"
-  }
-}
