@@ -1,0 +1,5 @@
+Schachbrett = 9×9 RAW‑Matrix
+→ jede Position = RAW‑Profil
+→ jede Figur = KI‑Agent
+→ jede Bewegung = RESPO.use
+→ jede Verbindung = RESPO.link
