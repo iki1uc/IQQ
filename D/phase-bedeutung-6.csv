@@ -1,0 +1,7 @@
+﻿Phase,Bedeutung
+recall,Shader‑State laden
+reorg,Uniforms neu ordnen
+recalc,Fraktale neu berechnen
+rescore,Orbit‑Gewichtung neu setzen
+reFINAL,finale Farbberechnung
+build final,finaler Render‑Pass

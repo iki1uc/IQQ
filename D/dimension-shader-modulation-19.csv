@@ -1,0 +1,20 @@
+﻿Dimension,Shader‑Modulation
+D0 Root,Basisfarbe
+D1 Orbit,Rotation
+D2 Wloch,Tiefenloch‑Fraktal
+D3 Gate,Portal‑Verzerrung
+D4 Kanal,Datenfluss‑Wellen
+D5 ROM,statische Farbe
+D6 HTML,Render‑Ebene
+D7 RAM,volatile Aura
+D8 CPU,Rechen‑Intensität
+D9 CACHE,Wiederholungs‑Pattern
+D10 SLI,Parallel‑Layer
+D11 UPG,Upgrade‑Boost
+D12 UPD,Update‑Shift
+D13 REV,Revision‑Noise
+D14 EVO,Evolution‑Gradient
+D15 TRANS,Transformation‑Warp
+D16 WARB,Warping‑Distortion
+D17 KANAL,Meta‑Kanal‑Aura
+D18 Neue Ebene,Erweiterungs‑Feld
