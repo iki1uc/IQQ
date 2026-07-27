@@ -1,16 +1,11 @@
-{
-  "RAW78": { ... },
-  "RAW79": {
-    "primary": "Wave",
-    "secondary": "Geist",
-    "id": "RAW79",
-    "perception": "Resonanz-Meta",
-    "cognition": "Geist-Fraktal-Analyse",
-    "drift": "Narrativ-Muster",
-    "pulse": "Zeitmodulierte Harmonie",
-    "orbit": "Meta-Schwingungsrotation",
-    "field": "Bewusstseins-Verzerrung",
-    "geist": "Tiefe Meta-Interpretation"
-  },
-  "RAW80": { ... }
-}
+import { NC_AI, NC_whirl, NC_parallel, NC_HUB_All } from "./NC.module.js";
+
+export const RAW79 = {
+  primary: "Wave",
+  secondary: "Geist",
+  id: "RAW79",
+  hub: NC_HUB_All("RAW79"),
+  ai: NC_AI("RAW79"),
+  whirl: NC_whirl("RAW79"),
+  parallel: NC_parallel("RAW79")
+};
