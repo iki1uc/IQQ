@@ -1,1 +1,16 @@
-
+{
+  "RAW78": { ... },
+  "RAW79": {
+    "primary": "Wave",
+    "secondary": "Geist",
+    "id": "RAW79",
+    "perception": "Resonanz-Meta",
+    "cognition": "Geist-Fraktal-Analyse",
+    "drift": "Narrativ-Muster",
+    "pulse": "Zeitmodulierte Harmonie",
+    "orbit": "Meta-Schwingungsrotation",
+    "field": "Bewusstseins-Verzerrung",
+    "geist": "Tiefe Meta-Interpretation"
+  },
+  "RAW80": { ... }
+}
