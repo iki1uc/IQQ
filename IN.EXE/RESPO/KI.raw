@@ -1,11 +1,11 @@
 import { NC_KI, NC_linear, NC_dynamic, NC_HUB_All } from "./NC.module.js";
 
-export const RAW79 = {
-  primary: "Wave",
-  secondary: "Geist",
-  id: "RAW79",
-  hub: NC_HUB_All("RAW79"),
-  ki: NC_KI("RAW79"),
-  linear: NC_linear("RAW79"),
-  dynamic: NC_dynamic("RAW79")
+export const RAW01 = {
+  primary: "Truth",
+  secondary: "Truth",
+  id: "RAW01",
+  hub: NC_HUB_All("RAW01"),
+  ki: NC_KI("RAW01"),
+  linear: NC_linear("RAW01"),
+  dynamic: NC_dynamic("RAW01")
 };
