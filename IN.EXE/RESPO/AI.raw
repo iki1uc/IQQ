@@ -1,11 +1,11 @@
 import { NC_AI, NC_whirl, NC_parallel, NC_HUB_All } from "./NC.module.js";
 
-export const RAW79 = {
-  primary: "Wave",
-  secondary: "Geist",
-  id: "RAW79",
-  hub: NC_HUB_All("RAW79"),
-  ai: NC_AI("RAW79"),
-  whirl: NC_whirl("RAW79"),
-  parallel: NC_parallel("RAW79")
+export const RAW01 = {
+  primary: "Truth",
+  secondary: "Truth",
+  id: "RAW01",
+  hub: NC_HUB_All("RAW01"),
+  ai: NC_AI("RAW01"),
+  whirl: NC_whirl("RAW01"),
+  parallel: NC_parallel("RAW01")
 };
