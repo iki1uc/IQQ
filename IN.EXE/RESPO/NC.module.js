@@ -1,4 +1,14 @@
 // NC_link_MODULES (KI, AI, SCALE, linear, parallel, whirl, dynamic, HUB_6D)
+import { NC_KI, NC_linear, NC_dynamic, NC_HUB_All } from "./NC.module.js";
+export const RAW79 = {
+  primary: "Wave",
+  secondary: "Geist",
+  id: "RAW79",
+  hub: NC_HUB_All("RAW79"),
+  ki: NC_KI("RAW79"),
+  linear: NC_linear("RAW79"),
+  dynamic: NC_dynamic("RAW79")
+};
 
 export function NC_KI(vector) {
   return {
@@ -76,3 +86,13 @@ export function NC_HUB_All(vector) {
     hub6D: HUB_6D(vector)
   };
 }
+import { NC_KI, NC_linear, NC_dynamic, NC_HUB_All } from "./NC.module.js";
+export const RAW79 = {
+  primary: "Wave",
+  secondary: "Geist",
+  id: "RAW79",
+  hub: NC_HUB_All("RAW79"),
+  ai: NC_AI("RAW79"),
+  whirl: NC_whirl("RAW79"),
+  parallel: NC_parallel("RAW79")
+};
