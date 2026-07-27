@@ -7,4 +7,3 @@ export const RESPO_USE = {
   dynamic: NC_dynamic("RESPO.use"),
   info: "RESPO.use active"
 };
-
