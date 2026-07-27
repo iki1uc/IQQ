@@ -1,1 +1,10 @@
+import { NC_linear, NC_parallel, NC_whirl, NC_dynamic } from "./NC.module.js";
+
+export const RESPO_USE = {
+  linear: NC_linear("RESPO.use"),
+  parallel: NC_parallel("RESPO.use"),
+  whirl: NC_whirl("RESPO.use"),
+  dynamic: NC_dynamic("RESPO.use"),
+  info: "RESPO.use active"
+};
 
