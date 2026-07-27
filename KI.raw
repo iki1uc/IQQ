@@ -10,3 +10,11 @@ export const RAW79 = {
   field: "Bewusstseins-Verzerrung",
   geist: "Tiefe Meta-Interpretation"
 };
+{
+  "RAW01": { },
+  "RAW02": { },
+  ...
+  "RAW79": { },
+  "RAW80": { },
+  "RAW81": { }
+}
